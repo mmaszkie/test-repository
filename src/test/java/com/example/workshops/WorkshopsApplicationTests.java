@@ -10,7 +10,6 @@ class WorkshopsApplicationTests {
 
 	@Test
 	void contextLoads() {
-		Assertions.assertEquals(1, 2);
 	}
 
 }

@@ -8,8 +8,5 @@ import org.springframework.boot.test.context.SpringBootTest;
 @SpringBootTest
 class WorkshopsApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
 
 }

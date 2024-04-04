@@ -14,5 +14,5 @@ jobs:
         with:
           java-version: '17'
           distribution: 'adopt'
-      - name: Verify Java installation
+      - name: Verify Java installation 
         run: java -version # poprawiony krok
